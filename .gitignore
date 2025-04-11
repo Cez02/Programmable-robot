@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+v17
+
+FileContentIndex
+
 # Distribution / packaging
 .Python
 build/
